@@ -34,13 +34,13 @@ const projectList = [
     title: "Car Transportation app In Figma 🎉",
     description:
       "UI design of a simple car transportation design application which lets us rent a car to travel for a limited time.",
-    url: "https://dribbble.com/shots/23316817-Car-Transportation-App-UI",
+    url: "https://dribbble.com/shots/23316817-Car-Transportation-App-UI?utm_source=Clipboard_Shot&utm_campaign=tacticalnerdist&utm_content=Car%20Transportation%20App%20UI&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=tacticalnerdist&utm_content=Car%20Transportation%20App%20UI&utm_medium=Social_Share",
   },
   {
     title: "UI for Merchandise website ",
     description:
       "Website lets you buy merch of your artists that also lets you keep up with their latest updates and announcement.",
-    url: "https://dribbble.com/shots/23136322-Merchandise-Website-UI",
+    url: "https://dribbble.com/shots/23136322-Merchandise-Website-UI?utm_source=Clipboard_Shot&utm_campaign=tacticalnerdist&utm_content=Merchandise%20Website%20UI&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=tacticalnerdist&utm_content=Merchandise%20Website%20UI&utm_medium=Social_Share",
   },
   {
     title: "My Resume Site",
@@ -52,7 +52,7 @@ const projectList = [
     title: "Art Auction App UI",
     description:
       "Art auction application Ui, designed with an accesible to all and engaing approach to ensure you can buy and also know all about your favourite artists and their work .",
-    url: "https://dribbble.com/shots/23111900-Art-Auction-App-UI",
+    url: "https://dribbble.com/shots/23111900-Art-Auction-App-UI?utm_source=Clipboard_Shot&utm_campaign=tacticalnerdist&utm_content=Art%20Auction%20App%20UI&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=tacticalnerdist&utm_content=Art%20Auction%20App%20UI&utm_medium=Social_Share",
   },
 ];
 

@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/deskreplacement.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Working on design";
 
 /**
  * Project list
@@ -31,16 +31,16 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Car Transportation app In Figma 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "UI design of a simple car transportation design application which lets us rent a car to travel for a limited time.",
+    url: "https://dribbble.com/shots/23316817-Car-Transportation-App-UI",
   },
   {
-    title: "Web Development for Beginners",
+    title: "UI for Merchandise website ",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Website lets you buy merch of your artists that also lets you keep up with their latest updates and announcement.",
+    url: "https://dribbble.com/shots/23136322-Merchandise-Website-UI",
   },
   {
     title: "My Resume Site",
@@ -49,10 +49,10 @@ const projectList = [
     url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Art Auction App UI",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Art auction application Ui, designed with an accesible to all and engaing approach to ensure you can buy and also know all about your favourite artists and their work .",
+    url: "https://dribbble.com/shots/23111900-Art-Auction-App-UI",
   },
 ];
 

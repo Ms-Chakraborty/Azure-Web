@@ -30,17 +30,17 @@ const imageAltText = "Working on design";
  * links section. Below is a sample, update to reflect links you'd like to highlight.
  */
 const projectList = [
-  {
-    title: "Car Transportation app In Figma 🎉",
-    description:
-      "UI design of a simple car transportation design application which lets us rent a car to travel for a limited time.",
-    url: "https://dribbble.com/shots/23316817-Car-Transportation-App-UI?utm_source=Clipboard_Shot&utm_campaign=tacticalnerdist&utm_content=Car%20Transportation%20App%20UI&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=tacticalnerdist&utm_content=Car%20Transportation%20App%20UI&utm_medium=Social_Share",
-  },
+  
   {
     title: "UI for Merchandise website ",
     description:
       "Website lets you buy merch of your artists that also lets you keep up with their latest updates and announcement.",
-    url: "https://dribbble.com/shots/23136322-Merchandise-Website-UI?utm_source=Clipboard_Shot&utm_campaign=tacticalnerdist&utm_content=Merchandise%20Website%20UI&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=tacticalnerdist&utm_content=Merchandise%20Website%20UI&utm_medium=Social_Share",
+    url: "https://pin.it/2QE3AVA",
+  },
+  {title: "Art Auction App UI",
+  description:
+    "Art auction application Ui, designed with an accesible to all and engaing approach to ensure you can buy and also know all about your favourite artists and their work .",
+  url: "https://pin.it/1YRpaWt",
   },
   {
     title: "My Resume Site",
@@ -49,11 +49,11 @@ const projectList = [
     url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
   },
   {
-    title: "Art Auction App UI",
+    title: "Car Transportation app In Figma 🎉",
     description:
-      "Art auction application Ui, designed with an accesible to all and engaing approach to ensure you can buy and also know all about your favourite artists and their work .",
-    url: "https://dribbble.com/shots/23111900-Art-Auction-App-UI?utm_source=Clipboard_Shot&utm_campaign=tacticalnerdist&utm_content=Art%20Auction%20App%20UI&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=tacticalnerdist&utm_content=Art%20Auction%20App%20UI&utm_medium=Social_Share",
-  },
+      "UI design of a simple car transportation design application which lets us rent a car to travel for a limited time.",
+    url: "https://pin.it/5FHILeq"
+    
 ];
 
 const Portfolio = () => {
